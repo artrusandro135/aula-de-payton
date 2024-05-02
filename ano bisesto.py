@@ -1,4 +1,4 @@
- #scrip para determinar se um ano é bissexto 
+ #calculo para determinar se um ano é bissexto 
 print ('bom dia')
 
 ano = int(input('ano: '))
